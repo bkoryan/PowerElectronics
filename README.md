@@ -1,4 +1,3 @@
-* Power Electronics Projects *
 
 **LT 3991 5V-1.2A Voltage Regulator**
 
